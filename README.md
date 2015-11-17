@@ -1,6 +1,8 @@
 # sagacious-tatertot
 Abandoned score keeping practice project. 
 
+Should build in Xcode 7.1.1 on an iPhone 6. The only thing that works right now is adding a player to the list.
+
 ![App Flow](Design/flow.png)
 
 ## MVP Tasks
